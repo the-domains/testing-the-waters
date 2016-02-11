@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[testing the waters]]></title>
         <description><![CDATA[testing the waters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testing-the-waters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 16:20:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 16:32:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testing-the-waters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Budapest by night - Le Parlement - photo picture image photography]]></title>
+            <description><![CDATA[<article><h1>Budapest by night - Le Parlement - photo picture image photography</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f09f1c3be4a3d9ad0b9e53929ae783e618402809.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/xavier33300/9583724665/in/photolist-fAT6sa-9SW52v-a6pRQe-bwAdke-5m7ddH-7Qbfeu-8sFVVS-7Jqm5K-4Qvv3R-5X776q-7Csb1o-8DZXzF-7xfnRv-8kXaCy-7zuBLD-7FNoF6-7wBt3L-rUnHyy-8poKYm-5kMVAP-ddCVmu-6ZFu87-deyo47-6mGsHy-6v4GWC-7DnP44-8nUe8e-iENcGh-iWfU2x-8QktU6-btcamm-cban3J-rWprWA-7SP2fT-8VQ8y5-8mPrhh-97mpFS-8KZnWx-jxiUyZ-c6Jk5y-r9Qr3L-cdtNzd-7E5DeZ-d4Y7BJ-nb16jD-8tMF5x-qmuVAM-7BsiNi-jmz6ij-96VRju</link>
+            <guid isPermaLink="false">e3d5adc7-eaf7-4dc8-ac46-8f4a52dfdf27</guid>
+            <pubDate>Thu, 11 Feb 2016 16:32:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis congue ultricies justo, in vulputate velit consectetur eget. Phasellus vel placerat ante. Proin et mollis leo. In consequat, massa vitae molestie interdum, tellus neque tincidunt ligula, sit amet varius nunc quam ac velit. Etiam pretium quam elit, et viverra erat vestibulum in. Vestibulum ultrices sem purus, eu bibendum lacus rhoncus a. Suspendisse dapibus quis neque sit amet maximus. Cras efficitur augue eu blandit mollis. Mauris euismod convallis porta. Sed egestas maximus mi eget volutpat.</p>]]></description>
-            <link>undefinedfd3d009c-7e0c-42da-b691-fe1537892608/index.html</link>
+            <link>https://thegrid.ai/testing-the-waters/fd3d009c-7e0c-42da-b691-fe1537892608/index.html</link>
             <guid isPermaLink="false">fd3d009c-7e0c-42da-b691-fe1537892608</guid>
             <pubDate>Thu, 11 Feb 2016 16:19:54 GMT</pubDate>
         </item>
